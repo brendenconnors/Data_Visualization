@@ -3,4 +3,4 @@
 
 The visualization will be displayed using Dash
 
-![Alt text](dash_screenshot.png?raw=true "Title")
+![img](dash_screenshot.png?raw=true "Preview")
